@@ -1,9 +1,9 @@
-# Junior Programmer: Manage scene flow
+# Junior Programmer: Manage scene flow + apply OOP principles.
 Work in progress
 
-I have no written most of the code in this project.
-it was given as is mostly as a way to work on and understand scene flow.
-The project is uploaded because it's a requierment.
+
+While I have no written most of the code in this project, I did refractor most of it and added code of my own.
+
 
 
 No playable version atm
